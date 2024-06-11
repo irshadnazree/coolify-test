@@ -2,16 +2,6 @@ import Image from 'next/image';
 import Button from '../components/Button';
 
 export default function Home() {
-  const crashServer = async () => {
-    try {
-      const response = await fetch('/api/server');
-      const data = await response.json();
-      console.log(data);
-    } catch (error) {
-      console.error('Error:', error);
-    }
-  };
-
   return (
     <main className='flex min-h-screen flex-col items-center justify-between p-24'>
       <div className='z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex'>
@@ -119,7 +109,7 @@ export default function Home() {
           </p>
         </a>
       </div>
-      <Button onClick={crashServer}>Crash Server</Button>
+      <Button />
     </main>
   );
 }
