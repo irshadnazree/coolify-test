@@ -1,0 +1,367 @@
+[
+  {
+    "id": "21f57231-b42e-4a21-9f35-0b67c5b5e495",
+    "title": "Front-End Developer Internship at HighGround (6 Months)",
+    "spotlight": false,
+    "keywordHighlight": false,
+    "keywordHighlightText": ["HTML", "front end", "css"],
+    "imageMobile": "//assets.wobbjobs.com/images/job-banners/hiredly-job-banner-it.png",
+    "jobType": "Internship",
+    "stateRegion": "Kuala Lumpur",
+    "location": "Puchong",
+    "bookmark": false,
+    "boosted": false,
+    "haveApplied": false,
+    "salary": "1000 - 1800",
+    "expired": false,
+    "slug": "jobs-malaysia-high-ground-sdn-bhd-job-front-end-developer-internship-at-highground-6-months",
+    "active": true,
+    "externalJobUrl": "",
+    "activeAt": "2024-05-23T00:38:30+08:00",
+    "gptSummary": "This job is a Front-End Developer Internship at HighGround (6 Months). You might like this job because you&#x27;ll work on real projects for startups, with potential full-time conversion.",
+    "skills": [
+      {
+        "name": "HTML5"
+      },
+      {
+        "name": "CSS Frameworks"
+      },
+      {
+        "name": "React.js (Javascript Library)"
+      }
+    ],
+    "company": {
+      "id": "3f77ce6d-80ba-4f65-ab38-5cb41c37253d",
+      "logo": "//resources.wobbjobs.com/companies/3f77ce6d-80ba-4f65-ab38-5cb41c37253d/company_logo/original/34ffa261-e12a-4be1-8981-fb6979b9ac19-HG.jpeg",
+      "name": "High Ground Sdn Bhd ",
+      "registerName": "High Ground Sdn Bhd ",
+      "slug": "high-ground-sdn-bhd"
+    },
+    "scraped": "false",
+    "jobSlotType": "internship"
+  },
+  {
+    "id": "5b34cecf-8871-4f8f-b362-7a65bda02a71",
+    "title": "backend software developer",
+    "spotlight": false,
+    "keywordHighlight": false,
+    "keywordHighlightText": [],
+    "imageMobile": "//assets.wobbjobs.com/images/job-banners/hiredly-job-banner-management-trainee.png",
+    "jobType": "Full-Time",
+    "stateRegion": "Kuala Lumpur",
+    "location": "ttdi",
+    "bookmark": false,
+    "boosted": false,
+    "haveApplied": false,
+    "salary": "500",
+    "expired": false,
+    "slug": "jobs-malaysia-hiredly-job-backend-software-developer",
+    "active": true,
+    "externalJobUrl": "",
+    "activeAt": "2024-05-24T11:41:57+08:00",
+    "gptSummary": "This job is for a backend software developer who should be familiar with using Rails and developing backend systems. You might like this job because it involves creating software functionalities behind the scenes.",
+    "skills": [
+      {
+        "name": "Software Development"
+      }
+    ],
+    "company": {
+      "id": "44ea6c51-c84d-423f-8649-96cb592ea995",
+      "logo": "//s3.ap-southeast-1.amazonaws.com/data-staging.wobbjobs.com/uploads/company-logo/company_logo_image/44ea6c51-c84d-423f-8649-96cb592ea995/hiredly-1625832646.png",
+      "name": "Hiredly",
+      "registerName": "Wobb Sdn Bhd",
+      "slug": "hiredly"
+    },
+    "scraped": "false",
+    "jobSlotType": "job_slot"
+  },
+  {
+    "id": "85ceea0b-84e1-4214-8ca9-dc36c80301fa",
+    "title": "Checking Hiring Process",
+    "spotlight": false,
+    "keywordHighlight": false,
+    "keywordHighlightText": ["weeee"],
+    "imageMobile": "//assets.wobbjobs.com/images/job-banners/hiredly-job-banner-general.png",
+    "jobType": "Full-Time",
+    "stateRegion": "Kuala Lumpur",
+    "location": "TTDI",
+    "bookmark": false,
+    "boosted": false,
+    "haveApplied": false,
+    "salary": "500",
+    "expired": false,
+    "slug": "jobs-malaysia-xltest-job-checking-hiring-process",
+    "active": true,
+    "externalJobUrl": "",
+    "activeAt": "2024-05-27T16:20:31+08:00",
+    "gptSummary": "This job is about evaluating recruitment procedures. You might like this job because it involves ensuring effective hiring processes.",
+    "skills": [
+      {
+        "name": "Weed Control"
+      }
+    ],
+    "company": {
+      "id": "dc861050-6c45-437c-b51d-093ca94b34d2",
+      "logo": null,
+      "name": "XLTest",
+      "registerName": "XLTest",
+      "slug": "xltest"
+    },
+    "scraped": "false",
+    "jobSlotType": "job_slot"
+  },
+  {
+    "id": "21f27dbd-67ac-496f-ad13-cb3596c5fcaa",
+    "title": "tes",
+    "spotlight": false,
+    "keywordHighlight": false,
+    "keywordHighlightText": [],
+    "imageMobile": "//assets.wobbjobs.com/images/job-banners/hiredly-job-banner-general.png",
+    "jobType": "Internship",
+    "stateRegion": "Kuala Lumpur",
+    "location": "te",
+    "bookmark": false,
+    "boosted": false,
+    "haveApplied": false,
+    "salary": "500",
+    "expired": false,
+    "slug": "jobs-malaysia-ed-prod-01-test-job-tes",
+    "active": true,
+    "externalJobUrl": "",
+    "activeAt": "2024-06-06T18:09:47+08:00",
+    "gptSummary": "This job is a &quot;tes&quot; role that involves fsa tasks. You might like this job because it offers opportunities in a dynamic field.",
+    "skills": [
+      {
+        "name": "Test Planning"
+      }
+    ],
+    "company": {
+      "id": "ef635f1c-1f52-402a-9f34-a020d26e4502",
+      "logo": "//resources.wobbjobs.com/companies/ef635f1c-1f52-402a-9f34-a020d26e4502/company_logo/original/a9d4b761-ed0b-40bb-9c3e-9882b5220b8f-photo_2022-08-16_11-05-33.jpg",
+      "name": "ed prod 01 test",
+      "registerName": "ed prod 01 test",
+      "slug": "ed-prod-01-test"
+    },
+    "scraped": "false",
+    "jobSlotType": "internship"
+  },
+  {
+    "id": "93f8e2ff-9048-46ae-87ea-c1d398147e49",
+    "title": "Professional Pho Chef ",
+    "spotlight": false,
+    "keywordHighlight": false,
+    "keywordHighlightText": [],
+    "imageMobile": "//assets.wobbjobs.com/images/job-banners/hiredly-job-banner-general.png",
+    "jobType": "Full-Time",
+    "stateRegion": "Kuala Lumpur",
+    "location": "Petaling Street",
+    "bookmark": false,
+    "boosted": false,
+    "haveApplied": false,
+    "salary": "3000",
+    "expired": false,
+    "slug": "jobs-malaysia-nat-test-job-professional-pho-chef",
+    "active": true,
+    "externalJobUrl": "",
+    "activeAt": "2024-06-10T11:37:26+08:00",
+    "gptSummary": "This job is about making delicious pho dishes. You might like this job because you get to showcase your cooking skills and create tasty Vietnamese cuisine.",
+    "skills": [
+      {
+        "name": "Cooking"
+      }
+    ],
+    "company": {
+      "id": "bfbae445-4392-4c9d-9f96-9912d7dbac9e",
+      "logo": null,
+      "name": "Nat Test",
+      "registerName": "Nat Test",
+      "slug": "nat-test"
+    },
+    "scraped": "false",
+    "jobSlotType": "job_slot"
+  },
+  {
+    "id": "cd493ebf-ca2b-4f73-b9db-75338b30e2e4",
+    "title": "Senior IT Director",
+    "spotlight": false,
+    "keywordHighlight": false,
+    "keywordHighlightText": [],
+    "imageMobile": "//assets.wobbjobs.com/images/job-banners/hiredly-job-banner-management-trainee.png",
+    "jobType": "Internship",
+    "stateRegion": "Penang",
+    "location": "Klang Valley",
+    "bookmark": false,
+    "boosted": false,
+    "haveApplied": false,
+    "salary": "20000 - 30000",
+    "expired": false,
+    "slug": "jobs-malaysia-joyee-rd-job-senior-it-director",
+    "active": true,
+    "externalJobUrl": "",
+    "activeAt": "2024-06-10T23:34:25+08:00",
+    "gptSummary": "This job is for a Senior IT Director. You might like this job because it offers leadership in strategic IT decision-making.",
+    "skills": [
+      {
+        "name": "Account Management"
+      },
+      {
+        "name": "Accounts Receivable"
+      }
+    ],
+    "company": {
+      "id": "d7f831b6-2545-434b-bd29-aca6cc371f37",
+      "logo": null,
+      "name": "joyee rd",
+      "registerName": "joyee rd",
+      "slug": "joyee-rd"
+    },
+    "scraped": "false",
+    "jobSlotType": "unlimited_job_token"
+  },
+  {
+    "id": "906ad919-c2f1-4db4-bc09-68112dbb2db3",
+    "title": "Senior Full Stack Developer",
+    "spotlight": false,
+    "keywordHighlight": false,
+    "keywordHighlightText": [],
+    "imageMobile": "//assets.wobbjobs.com/images/job-banners/hiredly-job-banner-marketing.png",
+    "jobType": "Full-Time",
+    "stateRegion": "Putrajaya",
+    "location": "Mid Valley",
+    "bookmark": false,
+    "boosted": false,
+    "haveApplied": false,
+    "salary": "10000 - 12000",
+    "expired": false,
+    "slug": "jobs-malaysia-joyee-rd-job-senior-full-stack-developer",
+    "active": true,
+    "externalJobUrl": "",
+    "activeAt": "2024-06-04T22:17:53+08:00",
+    "gptSummary": "This job is for a Senior Full Stack Developer. You might like this job because it offers an opportunity to work on cutting-edge software projects with a focus on innovation and technology.",
+    "skills": [
+      {
+        "name": "React.js (Javascript Library)"
+      },
+      {
+        "name": "React Redux"
+      }
+    ],
+    "company": {
+      "id": "d7f831b6-2545-434b-bd29-aca6cc371f37",
+      "logo": null,
+      "name": "joyee rd",
+      "registerName": "joyee rd",
+      "slug": "joyee-rd"
+    },
+    "scraped": "false",
+    "jobSlotType": "unlimited_job_token"
+  },
+  {
+    "id": "eda3b53f-24ea-43e9-99fc-23025e12da3e",
+    "title": "Section Head",
+    "spotlight": false,
+    "keywordHighlight": false,
+    "keywordHighlightText": [],
+    "imageMobile": "//assets.wobbjobs.com/images/job-banners/hiredly-job-banner-marketing.png",
+    "jobType": "Full-Time",
+    "stateRegion": "Kuala Lumpur",
+    "location": "Mid Valley ",
+    "bookmark": false,
+    "boosted": false,
+    "haveApplied": false,
+    "salary": "10000 - 12000",
+    "expired": false,
+    "slug": "jobs-malaysia-joyee-rd-job-section-head",
+    "active": true,
+    "externalJobUrl": "",
+    "activeAt": "2024-05-30T09:21:43+08:00",
+    "gptSummary": "This job is a Section Head at DEC. You&#x27;ll manage a team and oversee operations. You might like this job because it offers leadership opportunities and career growth potential.",
+    "skills": [
+      {
+        "name": "Project Management"
+      }
+    ],
+    "company": {
+      "id": "d7f831b6-2545-434b-bd29-aca6cc371f37",
+      "logo": null,
+      "name": "joyee rd",
+      "registerName": "joyee rd",
+      "slug": "joyee-rd"
+    },
+    "scraped": "false",
+    "jobSlotType": "unlimited_job_token"
+  },
+  {
+    "id": "35bc69b4-6738-496b-95d0-b671fbc4bdb6",
+    "title": "Network Support-R2",
+    "spotlight": false,
+    "keywordHighlight": false,
+    "keywordHighlightText": [],
+    "imageMobile": "//assets.wobbjobs.com/images/job-banners/hiredly-job-banner-marketing.png",
+    "jobType": "Part-Time",
+    "stateRegion": "Kuala Lumpur",
+    "location": "Mid Valley",
+    "bookmark": false,
+    "boosted": false,
+    "haveApplied": false,
+    "salary": "4200 - 5000",
+    "expired": false,
+    "slug": "jobs-malaysia-joyee-rd-job-network-support-r2",
+    "active": true,
+    "externalJobUrl": "",
+    "activeAt": "2024-05-29T14:20:26+08:00",
+    "gptSummary": "This job is about providing network support R2. You might like this job because it offers hands-on experience in managing networks and troubleshooting issues.",
+    "skills": [
+      {
+        "name": "Accountability"
+      }
+    ],
+    "company": {
+      "id": "d7f831b6-2545-434b-bd29-aca6cc371f37",
+      "logo": null,
+      "name": "joyee rd",
+      "registerName": "joyee rd",
+      "slug": "joyee-rd"
+    },
+    "scraped": "false",
+    "jobSlotType": "unlimited_job_token"
+  },
+  {
+    "id": "ec37574b-dec1-4ced-8a33-874fdf774971",
+    "title": "Web Designer",
+    "spotlight": false,
+    "keywordHighlight": false,
+    "keywordHighlightText": [],
+    "imageMobile": "//assets.wobbjobs.com/images/job-banners/hiredly-job-banner-marketing.png",
+    "jobType": "Part-Time",
+    "stateRegion": "Selangor",
+    "location": "Mid Valley ",
+    "bookmark": false,
+    "boosted": false,
+    "haveApplied": false,
+    "salary": "5000 - 6000",
+    "expired": false,
+    "slug": "jobs-malaysia-joyee-rd-job-web-designer",
+    "active": true,
+    "externalJobUrl": "",
+    "activeAt": "2024-05-27T14:01:06+08:00",
+    "gptSummary": "This job is about designing websites to create user-friendly experiences. You might like this job because it combines creativity with technical skills.",
+    "skills": [
+      {
+        "name": "Accounting"
+      },
+      {
+        "name": "Accountability"
+      }
+    ],
+    "company": {
+      "id": "d7f831b6-2545-434b-bd29-aca6cc371f37",
+      "logo": null,
+      "name": "joyee rd",
+      "registerName": "joyee rd",
+      "slug": "joyee-rd"
+    },
+    "scraped": "false",
+    "jobSlotType": "unlimited_job_token"
+  }
+]
